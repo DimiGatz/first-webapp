@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>first-webapp-mofucker</finalName>
+    <finalName>first-webapp</finalName>
   </build>
 </project>
