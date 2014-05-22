@@ -1,1 +1,1 @@
-wasuuuuuuup, kali fasi re file.
+First simple maven project to be uploaded to GitHub via Git.
